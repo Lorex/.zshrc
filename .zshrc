@@ -80,5 +80,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias em="emacs -nw"
 alias sem="sudo emacs -nw"
-alias agi="apt-get install"
-alias agu="apt-get update & apt-get upgrade"
+alias agi="sudo apt-get install"
+alias agu="sudo apt-get update & apt-get upgrade"
